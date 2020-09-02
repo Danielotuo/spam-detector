@@ -12,3 +12,4 @@
  Run the app with streamlit run app.py
  
  
+![Screenshot](app.gif)
